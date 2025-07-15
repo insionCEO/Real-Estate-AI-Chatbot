@@ -2,14 +2,14 @@
 
 [![npm version](https://badge.fury.io/js/casino-server.svg)](http://badge.fury.io/js/casino-server)
 
-[![Build Status](https://travis-ci.org/floatinghotpot/casino-server.svg)](https://travis-ci.org/floatinghotpot/casino-server)
+[![Build Status](https://travis-ci.org/insionCEO/casino-server.svg)](https://travis-ci.org/insionCEO/casino-server)
 
 [![NPM](https://nodei.co/npm-dl/casino-server.png?height=3)](https://nodei.co/npm/casino-server/)
 
 An online poker game server powered by redis, node.js and socket.io
 
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/4_14.png) ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/3_14.png)
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/2_14.png)
+![A](https://github.com/insionCEO/casino-server/raw/master/wwwsrc/img/4_14.png) ![A](https://github.com/insionCEO/casino-server/raw/master/wwwsrc/img/3_14.png)
+![A](https://github.com/insionCEO/casino-server/raw/master/wwwsrc/img/2_14.png)
   
 Game rules supported:
 - [x] Chat Room (聊天室)
@@ -34,7 +34,7 @@ TODO List:
 
 # Architecture #
 
-![Architecture](https://github.com/floatinghotpot/casino-server/raw/master/docs/architecture.png)
+![Architecture](https://github.com/insionCEO/casino-server/raw/master/docs/architecture.png)
 
 ## Required ##
 
@@ -74,7 +74,7 @@ pm2 start `which casino-server` -i 0
 * Installing as a node app, and run in current folder:
 
 ```bash
-git clone https://github.com/floatinghotpot/casino-server.git casino
+git clone https://github.com/insionCEO/casino-server.git casino
 cd casino
 npm install
 # sudo npm install -g gulp
@@ -116,7 +116,7 @@ bin/logger.js -o ./tmp/casino.log
 ```
 # See Also
 
-* [socket.io for Unity3D](https://github.com/floatinghotpot/socket.io-unity), is a socket.io client library for Unity3D. You can develop casino games with Unity3D, and using this library to connect to this casino server.
+* [socket.io for Unity3D](https://github.com/insionCEO/socket.io-unity), is a socket.io client library for Unity3D. You can develop casino games with Unity3D, and using this library to connect to this casino server.
 
 # Credits #
 
