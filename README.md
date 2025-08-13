@@ -31,6 +31,7 @@ RealEstateAI is a web application designed to streamline real estate data analys
 - **APIs:** OpenAI api
 
 
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
 
 ## 📦 **Installation**
 
@@ -91,5 +92,4 @@ Start the Frontend:
 cd Frontend
 npm run start
 
-**Telegram**: [@insionCEO](https://t.me/insionCEO)
 
